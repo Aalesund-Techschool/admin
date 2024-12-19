@@ -1,7 +1,7 @@
 # Workshops våren 2025
 
-| Dato       | Emne                        | Lead   | Assist               | Pizza       |
-|------------|-----------------------------|--------|----------------------|-------------|
+| Dato       | Emne                        | Lead       | Assist               | Pizza       |
+|------------|-----------------------------|------------|----------------------|-------------|
 | 28.01.2025 | Git                         | Marius     | Jon Marius, Frank    | Kystverket  |
 | 11.02.2025 | Bash                        | Girts      | Kjell Inge           | Miles       |
 | 04.03.2025 | Web 1 (Intro Javascript)    | Steffen    | Girts                | TBD         |
