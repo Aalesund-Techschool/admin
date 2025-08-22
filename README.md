@@ -1,3 +1,14 @@
+# Workshops høsten 2025
+
+| Dato       | Emne                             | Lead       | Assist                     | Pizza       |
+|------------|----------------------------------|------------|----------------------------|-------------|
+| 16.09.2025 | Git + Github                     | TBD        | TBD, TBD, TBD              | TBD         |
+| 30.09.2025 | Docker                           | TBD        | TBD, TBD, TBD              | TBD         |
+| 14.10.2025 | Databaser og migreringsverktøy   | Runar      | TBD, TBD, TBD              | TBD         |
+| 28.10.2025 | Software-testing                 | TBD        | TBD, TBD, TBD              | TBD         |
+| 11.11.2025 | "Fra egen maskin til produksjon" | TBD        | TBD, TBD, TBD              | TBD         |
+
+
 # Workshops våren 2025
 
 | Dato       | Emne                        | Lead       | Assist                     | Pizza       |
