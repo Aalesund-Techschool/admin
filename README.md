@@ -5,7 +5,7 @@
 | 16.09.2025 | Git + Github                     | Marius     | Siri                       | Kystverket  |
 | 30.09.2025 | Docker                           | Arne/Frank |                            | Reknes      |
 | 14.10.2025 | Databaser og migreringsverktøy   | Runar      | TBD, TBD, TBD              | Apparat     |
-| 28.10.2025 | Software-testing                 | TBD        | TBD, TBD, TBD              | TBD         |
+| 28.10.2025 | Software-testing                 | Marius     | TBD, TBD, TBD              | Kystverket  |
 | 11.11.2025 | "Fra egen maskin til produksjon" | TBD        | TBD, TBD, TBD              | TBD         |
 
 
