@@ -1,3 +1,14 @@
+
+# Workshops våren 2026
+
+| Dato       | Emne                             | Lead       | Assist                     | Pizza       |
+|------------|----------------------------------|------------|----------------------------|-------------|
+| xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
+| xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
+| xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
+| xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
+| xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
+
 # Workshops høsten 2025
 
 | Dato       | Emne                             | Lead       | Assist                     | Pizza       |
