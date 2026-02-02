@@ -3,7 +3,7 @@
 
 | Dato       | Emne                             | Lead       | Assist                     | Pizza       |
 |------------|----------------------------------|------------|----------------------------|-------------|
-| xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
+| 03.02.2026 |                                  | Marius     |                            | Kystverket  |
 | xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
 | xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
 | xx.xx.2026 |                                  | TBD        | TBD, TBD, TBD              | TBD         |
